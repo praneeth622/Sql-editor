@@ -1,4 +1,4 @@
-# SQL Editor
+# SQL Editor Using Lex and Yaac
 
 A web-based SQL editor that allows users to input SQL queries, parse them, execute them against a mock database, and display the results. This project simulates basic SQL operations using React for the frontend and JavaScript for the parsing and execution logic.
 
